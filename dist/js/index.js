@@ -62,4 +62,4 @@ var fun2 = (x) => {
 var geo = new Geometry.MyGeometry();
 geo.toArrary(1, fun2);
 document.body.innerHTML = greeter(user);
-//# sourceMappingURL=indexx.js.map
+//# sourceMappingURL=index.js.map
