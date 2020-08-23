@@ -10,6 +10,6 @@ class Student {
 function greeter(person) {
     return "Hello, " + person.firstName + " " + person.lastName;
 }
-const user = new Student("Jane", "M.", "User");
+let user = new Student("Jane", "M.", "User");
 document.body.innerHTML = greeter(user);
-//# sourceMappingURL=index.js.map
+//# sourceMappingURL=student.js.map
